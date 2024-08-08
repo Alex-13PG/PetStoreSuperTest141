@@ -1,0 +1,17 @@
+{
+    "id": 408177001,
+    "category": {
+      "id": 1,
+      "name": "string"
+    },
+    "name": "Snoopy",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinned"
+      }
+    ],
+    "status": "available"
+  }
+  

@@ -12,11 +12,11 @@ describe('API petStore Swegger - Entidade Pet', () =>{
     // Funcões ou Metodos
     it('POST Pet', () => {
 
-    // Atributos, campos,caracteristicas, Configurações
+        // Atributos, campos,caracteristicas, Configurações
     
-    // Funções de Apoio (Opcional)
+        // Funções de Apoio (Opcional)
 
-    // Funções de Teste em Si
+        // Funções de Teste em Si
 
 })// FInal do metodo post
 
